@@ -1,3 +1,5 @@
+![How it look likes ](assets/images/img2.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
